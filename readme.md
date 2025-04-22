@@ -51,6 +51,11 @@ RACKBEAT_API_URL=https://app.rackbeat.com/api
 
 ### Project Setup
 
+#### Clone
+```
+git clone https://github.com/AbdulQadir1998/Fast-Stack.git
+```
+
 #### Frontend Setup
 ```
 cd frontend
